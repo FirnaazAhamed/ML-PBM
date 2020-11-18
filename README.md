@@ -1,6 +1,8 @@
-# ML-PBM
+# ML-PBM_2019
+
 ***************************************************************************
-****************************** ML-PBM_v11.01 ******************************
+
+ML-PBM v11.01
 
 This folder contains the MATLAB codes for the Multi-Layered Population
 Balance Model (ML-PBM), developed by Firnaaz Ahamed as part of PhD research
@@ -36,4 +38,3 @@ Instructions:
 1. Run run_MLPBM.m file.
 
 ***************************************************************************
-*********************************** End ***********************************
