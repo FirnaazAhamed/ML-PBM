@@ -12,8 +12,6 @@ This is the LATEST BUG-FREE version of the ML-PBM (v11.01).
 
 Corresponding email: firnaaz.ahamed@monash.edu; firnaaz.ahamed@gmail.com
 
-Let's try this out: push
-
 ***************************************************************************
 
 Reading materials for the ML-PBM are provided in the following:
